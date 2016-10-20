@@ -8,12 +8,12 @@ categories: 学习笔记
 ---
 
 ##快捷键 
-	command+control+[1-6] 标题
-	command+option+v      [linkname](link)
-	command+option+r 	  [linkname][reference link]
-						  [reference link]:link 
-	command+shift+k       ![imagename](image path)
+> - command+control+[1-6] 标题
+> - command+option+v      `[linkname](link)`
+> - command+option+r 	  `[linkname][reference link]
+						  [reference link]:link` 
+> - command+shift+k       `![imagename](image path)`
 ##连接
-[OmniMarkupPreviewer](https://github.com/timonwong/OmniMarkupPreviewer)
+> - [OmniMarkupPreviewer](https://github.com/timonwong/OmniMarkupPreviewer)
+> - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing#key-bindings)
 
-[MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing#key-bindings)
