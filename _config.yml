@@ -24,8 +24,8 @@ redcarpet:
     - with_toc_data
     
 
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : jidibingren
+tagline: 学习笔记
 
 defaults:
   -
