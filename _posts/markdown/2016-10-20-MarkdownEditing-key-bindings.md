@@ -20,12 +20,5 @@ categories: Study
 > - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing#key-bindings)
 > - [Markdown语法](http://www.appinn.com/markdown/basic.html)
 
-##配置指南
-
-> - command+control+[1-6] 标题
-> - command+option+v      `[linkname](link)`
-> - command+option+r 	  `[linkname][reference link]
-						  [reference link]:link` 
-> - command+shift+k       `![imagename](image path)`
 
 
