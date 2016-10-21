@@ -28,9 +28,4 @@ Jacman 主题提供了丰富的配置属性，可以实现您对主题的自定�
 - **菜单 menu**
 默认没有启用 `/tags` 和 `/categories`页面，如果需要启用请在博客目录下的`source`文件夹中分别建立`tags` 和 `categories`文件夹每个文件夹中分别包含一个`index.md`文件。内容为：
 
-```
-layout: tags (或categories)
-title: tags (或categories)
----
-```
 
