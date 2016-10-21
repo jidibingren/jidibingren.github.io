@@ -17,4 +17,4 @@ categories: Study
 ##连接
 > - [OmniMarkupPreviewer](https://github.com/timonwong/OmniMarkupPreviewer)
 > - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing#key-bindings)
-
+> - [Markdown语法](http://www.appinn.com/markdown/basic.html)
