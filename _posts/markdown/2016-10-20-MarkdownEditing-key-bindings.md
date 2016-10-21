@@ -3,7 +3,7 @@ layout: post
 title: MarkdownEditing的使用
 tags: 
 - Markdown
-categories: 学习笔记
+categories: Study
 <!-- description:  -->
 ---
 
