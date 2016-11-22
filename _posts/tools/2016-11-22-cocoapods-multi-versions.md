@@ -4,7 +4,7 @@ title: cocoapods 1.0.0后旧版本的使用(0.39.0)
 tags: 
 - cocoapods
 categories: tools
-<!-- description: -->
+description: cocoapods 1.0.0后旧版本的使用(0.39.0)
 ---
 ##方案一:自定义
 
