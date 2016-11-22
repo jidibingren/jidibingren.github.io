@@ -3,10 +3,9 @@ layout: post
 title: cocoapods旧版本的使用
 tags: cocoapods
 - Markdown
-categories: tools
-<!-- description:  -->
+categories: cocoapods
+description:cocoapods 1.0.0后旧版本的使用（0.39.0）
 ---
-# cocoapods 1.0.0后旧版本的使用（0.39.0）
 
 ## 方案一 自定义
 
