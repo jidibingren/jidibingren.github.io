@@ -1,10 +1,10 @@
 ---
 layout: post
-title: OC学习笔记2
+title: cocoapods旧版本
 tags: 
-- OC
-categories: iOS
-<!-- description:  -->
+- cocoapods
+categories: tools
+<!-- description:cocoapods 1.0.0后旧版本的使用（0.39.0） -->
 ---
 ##方案一:自定义
 
