@@ -2,8 +2,8 @@
 layout: post
 title: cocoapods旧版本
 tags: 
-- Tools
-categories: Cocoapods
+- Cocoapods
+categories: tools
 <!-- description:cocoapods 1.0.0后旧版本的使用（0.39.0） -->
 
 ---
