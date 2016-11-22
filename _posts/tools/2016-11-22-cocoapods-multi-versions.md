@@ -59,7 +59,6 @@ load Gem.bin_path('cocoapods', 'pod', version)
 2. gem install bundler
 
 3. cd path_to_you_podfile && vi Gemfile , add the following code 
-
 ```
 gem 'cocoapods', '~> 0.39.0'
 
