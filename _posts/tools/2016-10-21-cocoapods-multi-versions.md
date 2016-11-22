@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cocoapods 1.0.0后旧版本的使用
+title: cocoapods旧版本的使用
 tags: cocoapods
 - Markdown
 categories: tools
