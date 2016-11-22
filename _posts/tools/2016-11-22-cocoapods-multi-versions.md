@@ -2,9 +2,9 @@
 layout: post
 title: cocoapods旧版本
 tags: 
-- cocoapods
+- tools
 categories: tools
-<!-- description:cocoapods 1.0.0后旧版本的使用（0.39.0） -->
+<!-- description:  -->
 ---
 ##方案一:自定义
 
@@ -50,7 +50,6 @@ end
 gem 'cocoapods', version
 load Gem.bin_path('cocoapods', 'pod', version)
 ```
-
 4. cd path_to_you_podfile && pod -v 0.39.0 install --no-repo-update
 
 ##方案二:bundler
@@ -65,7 +64,6 @@ load Gem.bin_path('cocoapods', 'pod', version)
 gem 'cocoapods', '~> 0.39.0'
 
 ```
-
 4. bundle install(只第一次需要) && bundle exec pod install --no-repo-update
 
 ##方案三:homebrew(目前貌似还不行）

@@ -50,7 +50,6 @@ end
 gem 'cocoapods', version
 load Gem.bin_path('cocoapods', 'pod', version)
 ```
-
 4. cd path_to_you_podfile && pod -v 0.39.0 install --no-repo-update
 
 ##方案二:bundler
@@ -65,7 +64,6 @@ load Gem.bin_path('cocoapods', 'pod', version)
 gem 'cocoapods', '~> 0.39.0'
 
 ```
-
 4. bundle install(只第一次需要) && bundle exec pod install --no-repo-update
 
 ##方案三:homebrew(目前貌似还不行）
