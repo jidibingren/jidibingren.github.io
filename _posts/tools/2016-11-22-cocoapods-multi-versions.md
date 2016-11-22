@@ -2,9 +2,9 @@
 layout: post
 title: cocoapods旧版本
 tags: 
-- tools
+- cocoapods
 categories: tools
-<!-- description:  -->
+<!-- description: -->
 ---
 ##方案一:自定义
 
