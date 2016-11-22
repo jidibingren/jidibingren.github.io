@@ -69,10 +69,12 @@ gem 'cocoapods', '~> 0.39.0'
 
 ##方案三:homebrew(目前貌似还不行）
 
-* 同[installing-specific-version-of-homebrew-formula](http://effectif.com/mac-os-x/installing-specific-version-of-homebrew-formula)
+
 
 ##参考
 
 * [兼容1.0.0之前版本](http://blog.cocoapods.org/Sharding/)
 
 * [bundler-docs](http://bundler.io/docs.html)
+
+* [installing-specific-version-of-homebrew-formula](http://effectif.com/mac-os-x/installing-specific-version-of-homebrew-formula)
