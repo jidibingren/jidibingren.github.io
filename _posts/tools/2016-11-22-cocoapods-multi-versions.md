@@ -13,7 +13,6 @@ categories: tools
 2. cd ~/.cocoapods/repos/master/ && git fetch origin master && git checkout v0.32.1
 
 3. vi pod (gem install defualt path is /usr/bin/pod), overwrite with the following code 
-
 ```
 #!/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby
 #
@@ -61,7 +60,6 @@ load Gem.bin_path('cocoapods', 'pod', version)
 3. cd path_to_you_podfile && vi Gemfile , add the following code 
 ```
 gem 'cocoapods', '~> 0.39.0'
-
 ```
 4. bundle install(只第一次需要) && bundle exec pod install --no-repo-update
 
