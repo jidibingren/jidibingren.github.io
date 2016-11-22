@@ -6,9 +6,7 @@
 
 2. cd ~/.cocoapods/repos/master/ && git fetch origin master && git checkout v0.32.1
 
-3. vi pod (gem install defualt path is /usr/bin/pod)
-
-4. parse code 
+3. vi pod (gem install defualt path is /usr/bin/pod), overwrite with the following code 
 ```
 #!/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby
 #
@@ -46,7 +44,7 @@ gem 'cocoapods', version
 load Gem.bin_path('cocoapods', 'pod', version)
 ```
 
-5. cd path_to_you_podfile && pod -v 0.39.0 install --no-repo-update
+4. cd path_to_you_podfile && pod -v 0.39.0 install --no-repo-update
 
 ##方案二 bundler
 
@@ -60,7 +58,7 @@ gem 'cocoapods', '~> 0.39.0'
 
 ```
 
-4. bundle install && bundle exec pod install --no-repo-update
+4. bundle install(只第一次需要) && bundle exec pod install --no-repo-update
 
 ##方案三 homebrew （目前貌似还不行）
 * 同[installing-specific-version-of-homebrew-formula](http://effectif.com/mac-os-x/installing-specific-version-of-homebrew-formula)
